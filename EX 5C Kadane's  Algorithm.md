@@ -15,8 +15,8 @@ To write a python program to find the maximum contiguous subarray.
 ## Program:
 ```
 To implement the program to find the maximum contiguous subarray.
-Developed by: Saravanan PV
-Register Number: 212223230195  
+Developed by: Karthick Raja K
+Register Number: 212223240066  
 ```
 ```py
 def maxSubArraySum(a,size):
